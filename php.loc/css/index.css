@@ -1,0 +1,11 @@
+
+.b-popup .b-popup-content{
+    font-family: Areal;
+    margin:10px auto 0px auto;
+    width:70px;
+    height: 70px;
+    padding:5px;
+    background-color: #f5f5f5;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px #000;
+}
